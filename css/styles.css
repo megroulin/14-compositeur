@@ -32,6 +32,22 @@ footer {
   flex-direction: row;
 }
 
-main {
-  background-color: aquamarine;
+main img {
+  max-width: 80%;
 }
+
+.img-1 {
+  box-shadow: 10px 10px rgb(142, 183, 204);
+}
+
+.img-2 {
+  box-shadow: 10px 10px rgb(103, 117, 101);
+}
+
+.img-3 {
+  box-shadow: 10px 10px rgb(204, 162, 70);
+}
+
+.img-4 {
+  box-shadow: 10px 10px rgb(214, 204, 66);
+} 
