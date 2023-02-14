@@ -1,10 +1,37 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #ffff;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  text-align: justify;
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+h1 { 
+  font-family: 'Stick No Bills', sans-serif;
+  writing-mode: vertical-lr;
+  rotate: 180deg;
+  margin: 0;
+}
+
+h3 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+main {
+  background-color: aquamarine;
 }
