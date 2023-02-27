@@ -21,10 +21,14 @@ h1 {
 
 h3 {
   text-align: center;
+  color: #ffff;
+  background-color: black;
 }
 
 footer {
   text-align: center;
+  background-color: black;
+  color:#ffff
 }
 
 .container {
