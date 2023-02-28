@@ -77,7 +77,10 @@ button {
   -o-transition: all 0.5s;
   transition: all 0.5s;
   margin: auto;
+}
 
+a:hover {
+  background-color: rgb(142, 183, 204);
 }
 
 .title {
@@ -86,4 +89,8 @@ button {
 
 header a {
   color: #ffff;
+}
+
+.legende {
+  text-align: right;
 }
