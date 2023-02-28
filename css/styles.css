@@ -7,6 +7,10 @@ body {
   text-align: justify;
 }
 
+main {
+  background-color: #f6f6f6;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -42,6 +46,7 @@ main img {
 
 .img-1 {
   box-shadow: 10px 10px rgb(142, 183, 204);
+
 }
 
 .img-2 {
@@ -80,5 +85,5 @@ button {
 }
 
 header a {
-  color: #eeeeee;
+  color: #ffff;
 }
