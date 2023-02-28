@@ -56,14 +56,29 @@ main img {
   box-shadow: 10px 10px rgb(214, 204, 66);
 } 
 
-figure {
-  float: right;
-  width: 30%;
+button {
+  display: block;
+  background-color: #000000;
+  border-radius: 10px;
+  border: 4px #000000;
+  color: #eeeeee;
   text-align: center;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
-  border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+  padding: 20px;
+  width: 200px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  margin: auto;
+
+}
+
+.title {
+  align-self: center;
+}
+
+header a {
+  color: #eeeeee;
 }
