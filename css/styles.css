@@ -46,7 +46,6 @@ main img {
 
 .img-1 {
   box-shadow: 10px 10px rgb(142, 183, 204);
-
 }
 
 .img-2 {
@@ -80,6 +79,10 @@ button {
 }
 
 a:hover {
+  background-color: rgb(142, 183, 204);
+}
+
+button:hover {
   background-color: rgb(142, 183, 204);
 }
 
